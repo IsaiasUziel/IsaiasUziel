@@ -9,10 +9,26 @@
 <br/>
 
 <p>
-Passionate about programming and continuous learning. Specialized in web development, with a strong focus on Frontend and experience in Backend. I also have knowledge in web design and content management. My experience includes both freelance and team-based projects, where I’ve led projects and teams.
-I stand out for my creativity, efficiency, problem-solving skills, and my rigorous application of best practices, especially in version control with Git. I always strive to stay up-to-date with the latest technologies and trends, adapting quickly to dynamic environments.
+Software Engineer & Tech Lead based in Chile 🇨🇱
 </p>
-<br/>
+<p>
+Focused on product engineering, software architecture, technical leadership, and modern web platforms.
+</p>
+<p>
+I enjoy building scalable digital products, collaborating across design, business, and engineering teams, and continuously exploring new ways to improve software delivery through modern development practices and AI-assisted workflows.
+</p>
+
+## Current Focus
+- Product Architecture
+- Technical Leadership
+- Modern Web Platforms
+- AI-Assisted Engineering
+- Performance & Scalability
+
+## Links
+- [Portfolio](https://icordero.dev)
+- [Resume](https://resume.icordero.dev)
+- [LinkedIn](https://linkedin.com/in/isaiasuziel)
 
 ## ⚖️ Skills
 [![My Skills](https://skillicons.dev/icons?i=react,vue,next,nuxtjs,laravel,php,typescript,js,jquery,html,css,less,sass,tailwind,bootstrap,postgres,mysql,github,git,gitlab,pnpm,aws,cloudflare,vercel,firebase,sentry,nginx,linux,debian,bash,vscode,gulp,babel,vite,discord,figma,postman,notion)](https://skillicons.dev)
